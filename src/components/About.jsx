@@ -20,14 +20,21 @@ const About = () => {
             <p> Hi, I'm Peter. Welcome to my site.</p>
           </div>
           <div>
-            <p>
-              Sapiente cupiditate, facilis dolorem obcaecati ab voluptas eveniet
-              iure doloribus odit ipsum, inventore voluptate vero sunt minus
-              quaerat ratione in magni iusto illo amet quasi labore a optio?
-              Labore dolorum voluptas veniam, explicabo distinctio aspernatur,
-              libero blanditiis culpa rerum eligendi quod enim impedit alias
-              nobis similique adipisci, neque eaque. Pariatur ipsam omnis ex
-              soluta doloremque eligendi ea nostrum iusto minima quasi corrupti
+            <p className="pb-4">
+              I develop modern full stack applications with tools including
+              Javascript, React, Node.JS, Express, Sequelize, PostgresQL, Redux,
+              React Native, Firebase and more.
+            </p>
+            <p className="pb-4">
+              I have worked with industry leading environmental, education, and
+              youth development organizations, and am passionate about creating
+              dynamic and modern websites and applications to help my clients
+              achieve their highest goals.
+            </p>
+
+            <p className="pb-4">
+              Strengths: Problem-Solving, Communication, Leadership, Creativity,
+              Team-Building, Reflection, Cultural Awareness, Compassion
             </p>
           </div>
         </div>
