@@ -27,11 +27,6 @@ const Navbar = () => {
           </Link>
         </li>
         <li>
-          <Link to="skills" smooth={true} duration={500}>
-            Skills
-          </Link>
-        </li>
-        <li>
           <Link to="articles" smooth={true} duration={500}>
             Articles
           </Link>
@@ -39,6 +34,11 @@ const Navbar = () => {
         <li>
           <Link to="work" smooth={true} duration={500}>
             Portfolio
+          </Link>
+        </li>
+        <li>
+          <Link to="skills" smooth={true} duration={500}>
+            Skills
           </Link>
         </li>
         <li>
@@ -71,11 +71,7 @@ const Navbar = () => {
             About
           </Link>
         </li>
-        <li className="py-6 text-4xl">
-          <Link to="skills" onClick={handleClick} smooth={true} duration={500}>
-            Skills
-          </Link>
-        </li>
+
         <li className="py-6 text-4xl">
           <Link
             to="articles"
@@ -89,6 +85,11 @@ const Navbar = () => {
         <li className="py-6 text-4xl">
           <Link to="work" onClick={handleClick} smooth={true} duration={500}>
             Portfolio
+          </Link>
+        </li>
+        <li className="py-6 text-4xl">
+          <Link to="skills" onClick={handleClick} smooth={true} duration={500}>
+            Skills
           </Link>
         </li>
         <li className="py-6 text-4xl">
@@ -128,14 +129,14 @@ const Navbar = () => {
               </a>
             </li>
           </Link>
-          <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69] ">
+          {/* <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69] ">
             <a
               className="flex justify-between items-center w-full text-gray-300"
               href="/"
             >
               Resume <BsFillPersonLinesFill size={30} />
             </a>
-          </li>
+          </li> */}
         </ul>
       </div>
     </div>
