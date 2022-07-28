@@ -21,14 +21,13 @@ const About = () => {
           </div>
           <div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente
-              cupiditate, facilis dolorem obcaecati ab voluptas eveniet iure
-              doloribus odit ipsum, inventore voluptate vero sunt minus quaerat
-              ratione in magni iusto illo amet quasi labore a optio? Labore
-              dolorum voluptas veniam, explicabo distinctio aspernatur, libero
-              blanditiis culpa rerum eligendi quod enim impedit alias nobis
-              similique adipisci, neque eaque. Pariatur ipsam omnis ex soluta
-              doloremque eligendi ea nostrum iusto minima quasi corrupti
+              Sapiente cupiditate, facilis dolorem obcaecati ab voluptas eveniet
+              iure doloribus odit ipsum, inventore voluptate vero sunt minus
+              quaerat ratione in magni iusto illo amet quasi labore a optio?
+              Labore dolorum voluptas veniam, explicabo distinctio aspernatur,
+              libero blanditiis culpa rerum eligendi quod enim impedit alias
+              nobis similique adipisci, neque eaque. Pariatur ipsam omnis ex
+              soluta doloremque eligendi ea nostrum iusto minima quasi corrupti
             </p>
           </div>
         </div>
